@@ -1,6 +1,4 @@
 import javax.swing.JOptionPane;
-
-
 public class gui {
     public static void main(String[] args) {
         String heightString=JOptionPane.showInputDialog("What's your height (m)? ");
